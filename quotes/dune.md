@@ -3,7 +3,12 @@
 - "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"
 - "When Is A Gift Not A Gift?"
 <<<<<<< HEAD
+<<<<<<< HEAD
 - "fuck it idk"
 =======
 - "The spice must flow."
 >>>>>>> ab43492 (H: spice must flow)
+=======
+- "The spice must flow."
+- "Fear is the mind-killer."
+>>>>>>> c66314b (I: FEAR)
